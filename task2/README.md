@@ -72,7 +72,7 @@ output word form using encoder states and an attention mechanism.
 
 ### How to evaluate?
   ```
-  python3 baseline/eval.py devsets/en-track1-covered-out devsets/en-uncovered
+  python3 baseline/eval.py baselineresults/en-track1-covered-out devsets/en-uncovered
   ```
 
   The evaluation script measures accuracy of word form generation and
