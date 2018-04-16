@@ -1,6 +1,6 @@
 from sys import argv
 
-from baseline_task2 import eval
+from baseline import eval
 from data import read_dataset
 
 if __name__=="__main__":
