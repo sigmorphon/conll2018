@@ -257,7 +257,6 @@ def eval(devdata,id2char,generating=1,outf=None):
     lev=0.0
     tot = 0.0
     for n,s in enumerate(input):
-        stdout.write("%u\r" % n)
         for i,fields in enumerate(s):
             wf, lemma, msd = fields            
             if msd == NONE and lemma != NONE:
