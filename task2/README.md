@@ -13,7 +13,7 @@ _          year           _
 ON         on             ADV
 ```
 
-In the second track, we only get the word forms in the context
+In the second track, we only get word forms of context words.
 
 ```
 CHERNOBYL  _              _
@@ -33,12 +33,15 @@ sets in `devsets`.
 
 For each language (German, English, Spanish, Finnish, French, Russian
 and Swedish), there are high, medium and low train sets containing
-different amounts of training examples. We also give separate training
+varying amounts of training examples. Moreover, we give separate training
 sets for track 1 and track 2. You are allowed to use individual training
-sets in any way you like but you are not allowed to use external data
-sets in this task and you are not allowed to mix training sets from
-track 1 and track 2 or from high, medium and low settings. Moreover,
-you cannot use development sets for training your final system. They
+sets in any way you like but 
+
+ * You are not allowed to use external data
+sets in this task, and 
+ * You are not allowed to mix training sets from
+track 1 and track 2 or from high, medium and low settings, and
+ * You cannot use development sets for training your final system. They
 can only be used to tuning of hyperparameters.
 
 Track 1 training sets contain word forms, lemmas and MSDs for all
