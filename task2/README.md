@@ -1,19 +1,4 @@
-## Baseline system for the CoNLL-SIGMORPHON shared task 2018 Task 2
-
-This is a simple baseline system for solving tasks 2. The system is an
-encoder decoder on character sequences. It takes a lemma as input and
-generates a word form. The process is conditioned on the context of
-the lemma as explained below. The baseline system is implemented using
-the [DyNet](http://dynet.readthedocs.io/en/latest/python_ref.html)
-python library. Please, install DyNet if you want to run the baseline.
-
-https://sigmorphon.github.io/sharedtasks/2018/
-
-### Description
-
-The general idea is to feed in the input lemma and a context embedding
-into the encoder and then use the decoder together with an attention
-mechanism to generate the output word form.
+## Task 2 of the CoNLL-SIGMORPHON shared task 2018
 
 There are two tracks in task 2. In the first track, we are supposed to
 generate word forms (`years` in this case) given lemmas and
@@ -38,6 +23,53 @@ TEN        _              _
 _          year           _
 ON         _              _
 ```
+
+https://sigmorphon.github.io/sharedtasks/2018/
+
+### Data
+
+Training sets are located in the directory `trainsets` and development
+sets in `devsets`. 
+
+For each language (German, English, Spanish, Finnish, French, Russian
+and Swedish), there are high, medium and low train sets containing
+different amounts of training examples. We also give separate training
+sets for track 1 and track 2. You are allowed to use individual training
+sets in any way you like but you are not allowed to use external data
+sets in this task and you are not allowed to mix training sets from
+track 1 and track 2 or from high, medium and low settings. Moreover,
+you cannot use development sets for training your final system. They
+can only be used to tuning of hyperparameters.
+
+Track 1 training sets contain word forms, lemmas and MSDs for all
+words. Track 2 training sets contain word forms for context words and
+lemmas and word forms for target words. You should learn a system to
+predict the word form of a target word given its lemma.
+
+We provide development sets separately for track 1 and track 2 (for
+example `devsets/en-track1-covered` and
+`devsets/en-track2-covered`). We also provide gold standard
+development sets in (for example `devsets/en-uncovered`).
+
+Both training and development sets contain exactly one gold standard
+word form for each target lemma. These are the word forms from the
+original Universal Dependency treebanks used to generate these data
+sets. However, in the evaluation phase of task 2, we will take into
+account the fact that several word forms can sometimes be correct in
+the same context.
+
+### Description
+
+This is a simple baseline system for solving tasks 2. The system is an
+encoder decoder on character sequences. It takes a lemma as input and
+generates a word form. The process is conditioned on the context of
+the lemma as explained below. The baseline system is implemented using
+the [DyNet](http://dynet.readthedocs.io/en/latest/python_ref.html)
+python library. Please, install DyNet if you want to run the baseline.
+
+The general idea is to feed in the input lemma and a context embedding
+into the encoder and then use the decoder together with an attention
+mechanism to generate the output word form.
 
 The baseline treats the lemma, word form and MSD of the previous
 and following word as context in track 1. In track 2, the baseline only
