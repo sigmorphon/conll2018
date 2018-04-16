@@ -46,8 +46,8 @@ can only be used to tuning of hyperparameters.
 
 Track 1 training sets contain word forms, lemmas and MSDs for all
 words. Track 2 training sets contain word forms for context words and
-lemmas and word forms for target words. You should learn a system to
-predict the word form of a target word given its lemma.
+lemmas and word forms for target words. You should learn a system which
+predict the word form of a training example given its lemma.
 
 We provide development sets separately for track 1 and track 2 (for
 example `devsets/en-track1-covered` and
@@ -60,6 +60,8 @@ original Universal Dependency treebanks used to generate these data
 sets. However, in the evaluation phase of task 2, we will take into
 account the fact that several word forms can sometimes be correct in
 the same context.
+
+Systems will be evaluated w.r.t. inflection of nouns, verbs and adjectives only.
 
 ### Description
 
