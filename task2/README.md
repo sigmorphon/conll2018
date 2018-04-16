@@ -47,7 +47,7 @@ can only be used tune hyperparameters.
 Track 1 training sets contain word forms, lemmas and MSDs for all
 words. Track 2 training sets contain word forms for context words and
 lemmas and word forms for target words. You should learn a system which
-predict the word form of a training example given its lemma.
+predicts the word form of a training example given its lemma.
 
 We provide development sets separately for track 1 and track 2 (for
 example `devsets/en-track1-covered` and
