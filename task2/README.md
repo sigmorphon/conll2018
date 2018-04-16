@@ -65,12 +65,13 @@ Systems will be evaluated w.r.t. inflection of nouns, verbs and adjectives only.
 
 ### Description of the baseline system
 
-This is a simple baseline system for solving tasks 2. The system is an
-encoder decoder on character sequences. It takes a lemma as input and
-generates a word form. The process is conditioned on the context of
-the lemma as explained below. The baseline system is implemented using
-the [DyNet](http://dynet.readthedocs.io/en/latest/python_ref.html)
-python library. Please, install DyNet if you want to run the baseline.
+The directory `baseline` contains a simple baseline system for solving
+tasks 2. The system is an encoder decoder on character sequences. It
+takes a lemma as input and generates a word form. The process is
+conditioned on the context of the lemma as explained below. The
+baseline system is implemented using the
+[DyNet](http://dynet.readthedocs.io/en/latest/python_ref.html) python
+library. Please, install DyNet if you want to run the baseline.
 
 The general idea is to feed in the input lemma and a context embedding
 into the encoder and then use the decoder together with an attention
