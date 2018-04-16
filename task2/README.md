@@ -42,7 +42,7 @@ sets in this task, and
  * You are not allowed to mix training sets from
 track 1 and track 2 or from high, medium and low settings, and
  * You cannot use development sets for training your final system. They
-can only be used to tuning of hyperparameters.
+can only be used tune hyperparameters.
 
 Track 1 training sets contain word forms, lemmas and MSDs for all
 words. Track 2 training sets contain word forms for context words and
