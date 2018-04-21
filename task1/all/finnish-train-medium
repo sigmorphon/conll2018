@@ -1,0 +1,1000 @@
+vapiti	vapiteitta	N;PRIV;PL
+fasistipuolue	fasistipuolueitta	N;PRIV;PL
+tasata	ette tasanneet	V;ACT;PST;NEG;IND;2;PL
+kauneudenhoito	kauneudenhoito	N;NOM;SG
+kysellä	älkööt olko kyselleet	V;ACT;PRS;PRF;NEG;IMP;3;PL
+maalaisliitto	maalaisliitolla	N;AT+ESS;SG
+harrastua	ei ole harrastuttu	V;PASS;PRS;PRF;NEG;IND
+mukavuus	mukavuudet	N;NOM;PL
+manipuloida	lienee manipuloinut	V;ACT;PRS;PRF;POS;POT;3;SG
+halvautua	en halvaudu	V;ACT;PRS;NEG;IND;1;SG
+kryptandi	kryptandeille	N;AT+ALL;PL
+briossi	briossiksi	N;TRANS;SG
+bioindikaattori	bioindikaattorille	N;AT+ALL;SG
+vaappu	vaapulle	N;AT+ALL;SG
+latkia	latkinet	V;ACT;PRS;POS;POT;2;SG
+jelpata	et jelpanne	V;ACT;PRS;NEG;POT;2;SG
+kadottaa	eivät liene kadottaneet	V;ACT;PRS;PRF;NEG;POT;3;PL
+arkinen	arkisetta	ADJ;PRIV;SG
+sujuttautua	sujuttautuisimme	V;ACT;PRS;POS;COND;1;PL
+varpunen	varpusetta	N;PRIV;SG
+kukkakaalikorva	kukkakaalikorvalla	N;AT+ESS;SG
+kuningaspari	kuningaspariin	N;IN+ALL;SG
+petkuttaa	et petkuttanut	V;ACT;PST;NEG;IND;2;SG
+lokikirja	lokikirjoilta	N;AT+ABL;PL
+hyötynäkökohta	hyötynäkökohdalla	N;AT+ESS;SG
+neulatyyny	neulatyynyjä	N;PRT;PL
+jääkuutio	jääkuutioina	N;FRML;PL
+tietokoneistua	eivät liene tietokoneistuneet	V;ACT;PRS;PRF;NEG;POT;3;PL
+erilaistaa	ette erilaistane	V;ACT;PRS;NEG;POT;2;PL
+kuumeta	en kuumene	V;ACT;PRS;NEG;IND;1;SG
+sotia	et olisi sotinut	V;ACT;PRS;PRF;NEG;COND;2;SG
+afrikaaneri	afrikaanereissa	N;IN+ESS;PL
+kiskoutua	en ole kiskoutunut	V;ACT;PRS;PRF;NEG;IND;1;SG
+äkillinen	äkillinen	ADJ;ACC;SG
+kupuhapero	kupuhaperon	N;GEN;SG
+prelaatti	prelaatteina	N;FRML;PL
+kolonisoida	ei liene kolonisoitu	V;PASS;PRS;PRF;NEG;POT
+kolmijako	kolmijaolla	N;AT+ESS;SG
+napsia	emme napsine	V;ACT;PRS;NEG;POT;1;PL
+tuimeta	tuimenee	V;ACT;PRS;POS;IND;3;SG
+skutsi	skutsit	N;NOM;PL
+tyydyttää	ei tyydytettäne	V;PASS;PRS;NEG;POT
+rullaportaat	rullaportaat	N;ACC;PL
+neitsyt	neitsyittä	N;PRIV;PL
+makeutusaine	makeutusaine	N;ACC;SG
+synkronoida	lienee synkronoinut	V;ACT;PRS;PRF;POS;POT;3;SG
+kajottaa	eivät olisi kajottaneet	V;ACT;PRS;PRF;NEG;COND;3;PL
+haastattaa	emme haastattane	V;ACT;PRS;NEG;POT;1;PL
+joukkotuhonta	joukkotuhontoja	N;PRT;PL
+aplodeerata	ei olisi aplodeerattu	V;PASS;PRS;PRF;NEG;COND
+apinoida	olet apinoinut	V;ACT;PRS;PRF;POS;IND;2;SG
+histidiini	histidiininä	N;FRML;SG
+professorinvirka	professorinviran	N;GEN;SG
+autohälytin	autohälyttimistä	N;IN+ABL;PL
+oikeustiede	oikeustieteineen	N;COM;PL
+helmestää	olisivat helmestäneet	V;ACT;PRS;PRF;POS;COND;3;PL
+enetä	eivät olleet enenneet	V;ACT;PST;PRF;NEG;IND;3;PL
+hikinauha	hikinauhoineen	N;COM;PL
+palaa loppuun	oli palettu loppuun	V;PASS;PST;PRF;POS;IND
+mylläri	mylläriä	N;PRT;SG
+vannasputki	vannasputki	N;NOM;SG
+lenko	lengolla	ADJ;AT+ESS;SG
+kainalo	kainaloa	N;PRT;SG
+monotonisuus	monotonisuudesta	N;IN+ABL;SG
+loppumaton	loppumattomalle	ADJ;AT+ALL;SG
+äimistää	olen äimistänyt	V;ACT;PRS;PRF;POS;IND;1;SG
+opiskella	et ollut opiskellut	V;ACT;PST;PRF;NEG;IND;2;SG
+vakaumus	vakaumuksin	N;INS;PL
+maakarhu	maakarhuna	N;FRML;SG
+ampaista	olkoon ampaissut	V;ACT;PRS;PRF;POS;IMP;3;SG
+huohottaa	ei huohottane	V;ACT;PRS;NEG;POT;3;SG
+ilmavaara	ilmavaarasta	N;IN+ABL;SG
+härkätaistelu	härkätaisteluihin	N;IN+ALL;PL
+oikeushammaslääketiede	oikeushammaslääketieteille	N;AT+ALL;PL
+orhi	orhissa	N;IN+ESS;SG
+ejakuloida	ejakuloinut	V.PTCP;ACT;PST
+gryndata	eivät gryndanne	V;ACT;PRS;NEG;POT;3;PL
+keltahelttarousku	keltahelttarouskusta	N;IN+ABL;SG
+suomia	olisi suomittu	V;PASS;PRS;PRF;POS;COND
+sekvensointi	sekvensointeihin	N;IN+ALL;PL
+kielihistoria	kielihistoriaksi	N;TRANS;SG
+nääntyä nälkään	eivät olleet nääntyneet nälkään	V;ACT;PST;PRF;NEG;IND;3;PL
+ilmastua	ilmastuu	V;ACT;PRS;POS;IND;3;SG
+valoisampi	valoisampi	ADJ;ACC;SG
+tarhata	tarhannevat	V;ACT;PRS;POS;POT;3;PL
+kehaista	olit kehaissut	V;ACT;PST;PRF;POS;IND;2;SG
+äveröityä	äveröityisit	V;ACT;PRS;POS;COND;2;SG
+huurruttaa	huurrutettu	V.PTCP;PASS;PST
+vuosittainen	vuosittaisiksi	ADJ;TRANS;PL
+refraktaarinen	refraktaarisetta	ADJ;PRIV;SG
+odotussali	odotussalista	N;IN+ABL;SG
+empiirinen	empiiriset	ADJ;ACC;PL
+suikertaa	lienette suikertaneet	V;ACT;PRS;PRF;POS;POT;2;PL
+navakoitua	olisi navakoitunut	V;ACT;PRS;PRF;POS;COND;3;SG
+kohderyhmä	kohderyhmälle	N;AT+ALL;SG
+yhdenvertainen	yhdenvertainen	ADJ;NOM;SG
+saksanhirvi	saksanhirvin	N;INS;PL
+pakottautua	ei olisi pakottautunut	V;ACT;PRS;PRF;NEG;COND;3;SG
+sipistä	en olisi sipissyt	V;ACT;PRS;PRF;NEG;COND;1;SG
+gravitaatio	gravitaatioiden	N;GEN;PL
+pehmeikkö	pehmeiköiltä	N;AT+ABL;PL
+ornamentoida	on ornamentoinut	V;ACT;PRS;PRF;POS;IND;3;SG
+tähdentää	emme ole tähdentäneet	V;ACT;PRS;PRF;NEG;IND;1;PL
+liberaatio	liberaatioiden	N;GEN;PL
+kynnenmustuainen	kynnenmustuaisessa	N;IN+ESS;SG
+hiukkanen	hiukkanen	N;ACC;SG
+langata	langannemme	V;ACT;PRS;POS;POT;1;PL
+kulmata	lienee kulmattu	V;PASS;PRS;PRF;POS;POT
+agenttikirjallisuus	agenttikirjallisuuksitta	N;PRIV;PL
+grillimakkara	grillimakkarana	N;FRML;SG
+opintojakso	opintojaksotta	N;PRIV;SG
+salakapakka	salakapakatta	N;PRIV;SG
+pissittää	eivät pissitä	V;ACT;PRS;NEG;IND;3;PL
+eristyä	olemme eristyneet	V;ACT;PRS;PRF;POS;IND;1;PL
+tuhota	olitte tuhonneet	V;ACT;PST;PRF;POS;IND;2;PL
+kerryttää	lienette kerryttäneet	V;ACT;PRS;PRF;POS;POT;2;PL
+lomailla	älköön olko lomaillut	V;ACT;PRS;PRF;NEG;IMP;3;SG
+institutionalisoitua	institutionalisoiduttiin	V;PASS;PST;POS;IND
+kamarimusiikki	kamarimusiikitta	N;PRIV;SG
+nimettömyys	nimettömyyksistä	N;IN+ABL;PL
+ulkoilmateatteri	ulkoilmateattereina	N;FRML;PL
+oluttuoppi	oluttuopiksi	N;TRANS;SG
+lyöttää	olitte lyöttäneet	V;ACT;PST;PRF;POS;IND;2;PL
+hinautua	lienemme hinautuneet	V;ACT;PRS;PRF;POS;POT;1;PL
+euronormi	euronormit	N;ACC;PL
+koherentti	koherenttia	ADJ;PRT;SG
+vääristellä	eivät vääristelisi	V;ACT;PRS;NEG;COND;3;PL
+kypsyminen	kypsymisiä	N;PRT;PL
+lekuri	lekurien	N;GEN;PL
+hiihtoloma	hiihtoloma	N;ACC;SG
+kiirehtiä	lienette kiirehtineet	V;ACT;PRS;PRF;POS;POT;2;PL
+laulaa	olisin laulanut	V;ACT;PRS;PRF;POS;COND;1;SG
+pirauttaa	ei pirauteta	V;PASS;PRS;NEG;IND
+määrätietoinen	määrätietoisista	ADJ;IN+ABL;PL
+tyhjentyä	eivät olleet tyhjentyneet	V;ACT;PST;PRF;NEG;IND;3;PL
+oudoksuttaa	oudoksuttanemme	V;ACT;PRS;POS;POT;1;PL
+eksodermi	eksodermeillä	N;AT+ESS;PL
+pyydystää	ette olleet pyydystäneet	V;ACT;PST;PRF;NEG;IND;2;PL
+promenadikonsertti	promenadikonsertille	N;AT+ALL;SG
+rykiä	ryit	V;ACT;PRS;POS;IND;2;SG
+pidätellä	olkoot pidätelleet	V;ACT;PRS;PRF;POS;IMP;3;PL
+väsymys	väsymyksiin	N;IN+ALL;PL
+kuorettua	kuorettukoot	V;ACT;PRS;POS;IMP;3;PL
+lähestyä	eivät ole lähestyneet	V;ACT;PRS;PRF;NEG;IND;3;PL
+lataamo	lataamoille	N;AT+ALL;PL
+jyrisyttää	ei jyrisytetä	V;PASS;PRS;NEG;IND
+kerjetä	älkööt kerjetkö	V;ACT;PRS;NEG;IMP;3;PL
+individualisoida	et ole individualisoinut	V;ACT;PRS;PRF;NEG;IND;2;SG
+tulla toisiin aatoksiin	älkäämme olko tulleet toisiin aatoksiin	V;ACT;PRS;PRF;NEG;IMP;1;PL
+kea	kealle	N;AT+ALL;SG
+huutaja	huutaja	N;NOM;SG
+kinuta	kinutaan	V;PASS;PRS;POS;IND
+purilaat	purilaita	N;PRT;PL
+karvata	älä ole karvannut	V;ACT;PRS;PRF;NEG;IMP;2;SG
+vertaileva	vertailevia	ADJ;PRT;PL
+pappeus	pappeuksista	N;IN+ABL;PL
+olkapääohjus	olkapääohjuksineen	N;COM;PL
+firenzeläinen	firenzeläisiksi	N;TRANS;PL
+kaappihomo	kaappihomolla	N;AT+ESS;SG
+haukotus	haukotuksessa	N;IN+ESS;SG
+itseohjautuva	itseohjautuvassa	ADJ;IN+ESS;SG
+schapendoes	schapendoeseihin	N;IN+ALL;PL
+avittaa	avittanen	V;ACT;PRS;POS;POT;1;SG
+kangistaa	et kangistane	V;ACT;PRS;NEG;POT;2;SG
+seestyä	seestyköön	V;ACT;PRS;POS;IMP;3;SG
+talouslama	talouslamoineen	N;COM;PL
+happamoitua	happamoitukaa	V;ACT;PRS;POS;IMP;2;PL
+rouhentaa	ette olleet rouhentaneet	V;ACT;PST;PRF;NEG;IND;2;PL
+keisarillinen	keisarillisitta	ADJ;PRIV;PL
+tukehtua	tukehdutaan	V;PASS;PRS;POS;IND
+juhtaeläin	juhtaeläimille	N;AT+ALL;PL
+vastaava	vastaavatta	ADJ;PRIV;SG
+hamstrata	lienee hamstrattu	V;PASS;PRS;PRF;POS;POT
+wokkaus	wokkauksiksi	N;TRANS;PL
+tiedostamaton	tiedostamattomassa	ADJ;IN+ESS;SG
+viininviljely	viininviljelyin	N;INS;PL
+edeltää	olitte edeltäneet	V;ACT;PST;PRF;POS;IND;2;PL
+tainnuttaa	tainnutti	V;ACT;PST;POS;IND;3;SG
+hämärämpi	hämärämmän	ADJ;GEADJ;SG
+juonitella	juonittele	V;ACT;PRS;POS;IMP;2;SG
+italialaistua	italialaistuva	V.PTCP;ACT;PRS
+hullaantua	ette hullaannu	V;ACT;PRS;NEG;IND;2;PL
+kommari	kommareiksi	N;TRANS;PL
+seinäsammal-mustikkatyyppi	seinäsammal-mustikkatyypeillä	N;AT+ESS;PL
+neuloa	ei neulonut	V;ACT;PST;NEG;IND;3;SG
+huomaamaton	huomaamattomitta	ADJ;PRIV;PL
+ylvästellä	lienette ylvästelleet	V;ACT;PRS;PRF;POS;POT;2;PL
+ilonpito	ilonpidoin	N;INS;PL
+lörötellä	ei löröteltäisi	V;PASS;PRS;NEG;COND
+dollmanninpuuhiiri	dollmanninpuuhiiriin	N;IN+ALL;PL
+verenvuoto	verenvuodoista	N;IN+ABL;PL
+lähikuva	lähikuvan	N;GEN;SG
+vuorimari	vuorimareista	N;IN+ABL;PL
+uusköyhä	uusköyhistä	N;IN+ABL;PL
+peruslaskutoimitus	peruslaskutoimitukseen	N;IN+ALL;SG
+omnipresenssi	omnipresenssinä	N;FRML;SG
+siviili	siviili	N;ACC;SG
+kaksinkertaistaa	ette liene kaksinkertaistaneet	V;ACT;PRS;PRF;NEG;POT;2;PL
+kissanlillukka	kissanlillukoilta	N;AT+ABL;PL
+kokkiveitsi	kokkiveitsineen	N;COM;PL
+järvitaimen	järvitaimenia	N;PRT;PL
+digisovitin	digisovittimina	N;FRML;PL
+kimpaantua	ette kimpaantuneet	V;ACT;PST;NEG;IND;2;PL
+veltostuttaa	veltostutit	V;ACT;PST;POS;IND;2;SG
+pilkkiä	pilkin	V;ACT;PRS;POS;IND;1;SG
+agglutinatiivinen	agglutinatiivisella	ADJ;AT+ESS;SG
+virkkoa	virkkoa	V;NFIN
+valtionkirkko	valtionkirkkojen	N;GEN;PL
+syventää	eivät olleet syventäneet	V;ACT;PST;PRF;NEG;IND;3;PL
+tapisoida	ei liene tapisoitu	V;PASS;PRS;PRF;NEG;POT
+pyylevöityä	ei ole pyylevöidytty	V;PASS;PRS;PRF;NEG;IND
+korvareikä	korvareiästä	N;IN+ABL;SG
+raittiusseura	raittiusseura	N;ACC;SG
+puuppikansi	puuppikantta	N;PRT;SG
+andrologi	andrologia	N;PRT;SG
+palvonta	palvonnassa	N;IN+ESS;SG
+ylvästellä	ylvästelitte	V;ACT;PST;POS;IND;2;PL
+tiukka	tiukoilta	ADJ;AT+ABL;PL
+tihentyä	älkööt tihentykö	V;ACT;PRS;NEG;IMP;3;PL
+kobra	kobratta	N;PRIV;SG
+järkiintyä	emme ole järkiintyneet	V;ACT;PRS;PRF;NEG;IND;1;PL
+salamanteri	salamanterien	N;GEN;PL
+auditiivinen	auditiivisista	ADJ;IN+ABL;PL
+höppänöityä	höppänöidy	V;ACT;PRS;POS;IMP;2;SG
+päästä läpi	olkaa päässeet läpi	V;ACT;PRS;PRF;POS;IMP;2;PL
+kielikurssi	kielikurssit	N;NOM;PL
+havuttaa	en havuttane	V;ACT;PRS;NEG;POT;1;SG
+vampirismi	vampirismi	N;ACC;SG
+tuurata	älkööt olko tuuranneet	V;ACT;PRS;PRF;NEG;IMP;3;PL
+toivottomuus	toivottomuuksina	N;FRML;PL
+diivailla	ei liene diivailtu	V;PASS;PRS;PRF;NEG;POT
+clou	clou	N;ACC;SG
+kasetoida	emme kasetoisi	V;ACT;PRS;NEG;COND;1;PL
+purjehtia	purjehtikoot	V;ACT;PRS;POS;IMP;3;PL
+moukaroida	emme moukaroi	V;ACT;PRS;NEG;IND;1;PL
+hohkata	hohkataan	V;PASS;PRS;POS;IND
+skottihame	skottihameitta	N;PRIV;PL
+yliviivata	lienen yliviivannut	V;ACT;PRS;PRF;POS;POT;1;SG
+lorottaa	älkööt lorottako	V;ACT;PRS;NEG;IMP;3;PL
+alempiarvoisuus	alempiarvoisuudessa	N;IN+ESS;SG
+pikajuoksu	pikajuoksuun	N;IN+ALL;SG
+harottaa	olitte harottaneet	V;ACT;PST;PRF;POS;IND;2;PL
+kalsiumkarbonaatti	kalsiumkarbonaatteineen	N;COM;PL
+lainehtia	ette lainehtineet	V;ACT;PST;NEG;IND;2;PL
+taulutelevisio	taulutelevisioissa	N;IN+ESS;PL
+kuljettaa	kuljetettaneen	V;PASS;PRS;POS;POT
+muodostaa	eivät muodostane	V;ACT;PRS;NEG;POT;3;PL
+ympäristötuki	ympäristötukineen	N;COM;PL
+porrasfunktio	porrasfunktion	N;GEN;SG
+suipentaa	ei suipenneta	V;PASS;PRS;NEG;IND
+kävellä unissaan	ei ole kävellyt	V;ACT;PRS;PRF;NEG;IND;3;SG
+aksoplasma	aksoplasmat	N;ACC;PL
+grillikyljys	grillikyljys	N;ACC;SG
+skyyttalainen	skyyttalaisten	ADJ;GEADJ;PL
+huomauttaa	et ole huomauttanut	V;ACT;PRS;PRF;NEG;IND;2;SG
+luhistaa	eivät luhistaneet	V;ACT;PST;NEG;IND;3;PL
+äityä	olisitte äityneet	V;ACT;PRS;PRF;POS;COND;2;PL
+loikoa	en ole loikonut	V;ACT;PRS;PRF;NEG;IND;1;SG
+hakkelus	hakkelukset	N;ACC;PL
+kusipää	kusipäihin	N;IN+ALL;PL
+haukahtaa	haukahdettava	V.PTCP;PASS;PRS
+koostaa	olisi koostettu	V;PASS;PRS;PRF;POS;COND
+perkelöityä	ette perkelöidy	V;ACT;PRS;NEG;IND;2;PL
+itsemurhaisku	itsemurhaiskuilla	N;AT+ESS;PL
+proteaasin estäjä	proteaasin estäjille	N;AT+ALL;PL
+liudentaa	liudentanet	V;ACT;PRS;POS;POT;2;SG
+safkata	emme safkanneet	V;ACT;PST;NEG;IND;1;PL
+skandaali	skandaaliksi	N;TRANS;SG
+petrologinen	petrologisista	ADJ;IN+ABL;PL
+kirppari	kirppareista	N;IN+ABL;PL
+pyyhkiytyä	eivät ole pyyhkiytyneet	V;ACT;PRS;PRF;NEG;IND;3;PL
+nyrkinisku	nyrkiniskulle	N;AT+ALL;SG
+pullahtaa	olisitte pullahtaneet	V;ACT;PRS;PRF;POS;COND;2;PL
+havaita	havainnee	V;ACT;PRS;POS;POT;3;SG
+kommutaattori	kommutaattoreina	N;FRML;PL
+helistä	eivät olleet helisseet	V;ACT;PST;PRF;NEG;IND;3;PL
+stylisoida	älä stylisoi	V;ACT;PRS;NEG;IMP;2;SG
+suuntavalaisin	suuntavalaisimista	N;IN+ABL;PL
+projisioida	emme projisioine	V;ACT;PRS;NEG;POT;1;PL
+tunnoton	tunnottomilla	ADJ;AT+ESS;PL
+vedenhaltija	vedenhaltijoin	N;INS;PL
+yleisnäkymä	yleisnäkymälle	N;AT+ALL;SG
+mikroauto	mikroautot	N;ACC;PL
+houria	ei hourittu	V;PASS;PST;NEG;IND
+myrtyä	et olisi myrtynyt	V;ACT;PRS;PRF;NEG;COND;2;SG
+hyökätä	ei hyökättäne	V;PASS;PRS;NEG;POT
+entistää	et entistäne	V;ACT;PRS;NEG;POT;2;SG
+ideografia	ideografiat	N;NOM;PL
+translitteroida	translitteroitaisiin	V;PASS;PRS;POS;COND
+elollinen	elollisille	ADJ;AT+ALL;PL
+leikkaus	leikkauksilta	N;AT+ABL;PL
+jäljentyä	jäljentyivät	V;ACT;PST;POS;IND;3;PL
+dysenteria	dysenterioilla	N;AT+ESS;PL
+vähemmistökieli	vähemmistökielellä	N;AT+ESS;SG
+väestöräjähdys	väestöräjähdyksiä	N;PRT;PL
+lihamylly	lihamyllyn	N;GEN;SG
+kehdata	eivät kehtaisi	V;ACT;PRS;NEG;COND;3;PL
+järkätä	et järkkäisi	V;ACT;PRS;NEG;COND;2;SG
+patentoida	ei liene patentoinut	V;ACT;PRS;PRF;NEG;POT;3;SG
+kolottaa	kolottaisimme	V;ACT;PRS;POS;COND;1;PL
+kellastuttaa	älkäämme kellastuttako	V;ACT;PRS;NEG;IMP;1;PL
+balsamointi	balsamoinneilla	N;AT+ESS;PL
+asuntoalus	asuntoaluksilla	N;AT+ESS;PL
+nelikko	nelikot	N;NOM;PL
+korpirousku	korpirouskuineen	N;COM;PL
+sähköjohdin	sähköjohdin	N;ACC;SG
+penni	penneistä	N;IN+ABL;PL
+poikkitieteellinen	poikkitieteellisin	ADJ;INS;PL
+jäljenne	jäljenne	N;ACC;SG
+ongelmavuori	ongelmavuorta	N;PRT;SG
+leipäläpi	leipäläven	N;GEN;SG
+komeilla	ei komeillut	V;ACT;PST;NEG;IND;3;SG
+harjata	olisi harjannut	V;ACT;PRS;PRF;POS;COND;3;SG
+laahaantua	olkoon laahaantunut	V;ACT;PRS;PRF;POS;IMP;3;SG
+ennustus	ennustuksesta	N;IN+ABL;SG
+sekahedelmätäyte	sekahedelmätäytteessä	N;IN+ESS;SG
+heinäaika	heinäaikojen	N;GEN;PL
+vuorigorilla	vuorigorillaan	N;IN+ALL;SG
+ruohonkerääjä	ruohonkerääjää	N;PRT;SG
+antaa opetus	lienet antanut	V;ACT;PRS;PRF;POS;POT;2;SG
+narskuttaa	älköön olko narskuttanut	V;ACT;PRS;PRF;NEG;IMP;3;SG
+vatkain	vatkaimille	N;AT+ALL;PL
+separaatio	separaatiot	N;ACC;PL
+ohjailla	en ohjailisi	V;ACT;PRS;NEG;COND;1;SG
+aivolisäke	aivolisäkkeessä	N;IN+ESS;SG
+virkistys	virkistyksissä	N;IN+ESS;PL
+konekirjoitus	konekirjoituksista	N;IN+ABL;PL
+kevetä	olit kevennyt	V;ACT;PST;PRF;POS;IND;2;SG
+huttu	hutuitta	N;PRIV;PL
+shamponoida	olivat shamponoineet	V;ACT;PST;PRF;POS;IND;3;PL
+sihistä	ei sihissyt	V;ACT;PST;NEG;IND;3;SG
+ukonnauris	ukonnauris	N;NOM;SG
+torninosturi	torninosturi	N;NOM;SG
+ärjyntä	ärjynnöille	N;AT+ALL;PL
+tšuktši	tšuktšina	N;FRML;SG
+tutkanpaljastin	tutkanpaljastimista	N;IN+ABL;PL
+nokeentua	nokeentunee	V;ACT;PRS;POS;POT;3;SG
+köpitellä	köpitellemme	V;ACT;PRS;POS;POT;1;PL
+universaalistua	olit universaalistunut	V;ACT;PST;PRF;POS;IND;2;SG
+tassuttaa	tassuttaisitte	V;ACT;PRS;POS;COND;2;PL
+skruuvata	älkää olko skruuvanneet	V;ACT;PRS;PRF;NEG;IMP;2;PL
+sukkeluus	sukkeluus	N;NOM;SG
+piipertää	olkaa piipertäneet	V;ACT;PRS;PRF;POS;IMP;2;PL
+kaihtaa	kaihdettu	V.PTCP;PASS;PST
+hirnua	ole hirnunut	V;ACT;PRS;PRF;POS;IMP;2;SG
+hipsuttaa	ei hipsuttaisi	V;ACT;PRS;NEG;COND;3;SG
+röhkäistä	lienemme röhkäisseet	V;ACT;PRS;PRF;POS;POT;1;PL
+rakas	rakkaan	N;GEN;SG
+peltomaitikka	peltomaitikoissa	N;IN+ESS;PL
+sähköparisto	sähköparistolla	N;AT+ESS;SG
+ihailla	et olisi ihaillut	V;ACT;PRS;PRF;NEG;COND;2;SG
+vastavalittu	vastavalittu	ADJ;ACC;SG
+nukata	nukkaava	V.PTCP;ACT;PRS
+mellotus	mellotuksissa	N;IN+ESS;PL
+antaa ilmi	lienette antaneet ilmi	V;ACT;PRS;PRF;POS;POT;2;PL
+arpoa	ei arvottaisi	V;PASS;PRS;NEG;COND
+ykkösvahti	ykkösvahdissa	N;IN+ESS;SG
+platonikko	platonikkona	N;FRML;SG
+pahankurinen	pahankurisilla	ADJ;AT+ESS;PL
+hidastaa	emme hidasta	V;ACT;PRS;NEG;IND;1;PL
+hyllyttää	on hyllytetty	V;PASS;PRS;PRF;POS;IND
+routaantua	lienette routaantuneet	V;ACT;PRS;PRF;POS;POT;2;PL
+interpolointi	interpoloinneiksi	N;TRANS;PL
+vainaa	vainaalta	N;AT+ABL;SG
+kivitasku	kivitaskuista	N;IN+ABL;PL
+sopeutuminen	sopeutumiseksi	N;TRANS;SG
+kollari	kollareille	N;AT+ALL;PL
+turmio	turmion	N;GEN;SG
+paisua	en paisuisi	V;ACT;PRS;NEG;COND;1;SG
+rutinoitua	ette ole rutinoituneet	V;ACT;PRS;PRF;NEG;IND;2;PL
+strassikoru	strassikorut	N;ACC;PL
+definioida	definioitava	V.PTCP;PASS;PRS
+eksperimentaalinen	eksperimentaaliset	ADJ;ACC;PL
+kojeistaa	et kojeistanut	V;ACT;PST;NEG;IND;2;SG
+rantaneula	rantaneuloina	N;FRML;PL
+laahia	ei liene laahittu	V;PASS;PRS;PRF;NEG;POT
+polkeutua	ei liene polkeuduttu	V;PASS;PRS;PRF;NEG;POT
+suolisto	suolistolta	N;AT+ABL;SG
+mätämuna	mätämunat	N;ACC;PL
+silmäpako	silmäpakoon	N;IN+ALL;SG
+kaoottinen	kaoottisitta	ADJ;PRIV;PL
+koloratuuri	koloratuurina	N;FRML;SG
+kiihkota	kiihkoa	V;ACT;PRS;POS;IMP;2;SG
+sontia	en sontine	V;ACT;PRS;NEG;POT;1;SG
+idiolekti	idiolekteista	N;IN+ABL;PL
+soittaja	soittajille	N;AT+ALL;PL
+tuore	tuore	ADJ;NOM;SG
+virttyä	älköön virttykö	V;ACT;PRS;NEG;IMP;3;SG
+kinaasi	kinaaseiksi	N;TRANS;PL
+pohjata	et pohjanne	V;ACT;PRS;NEG;POT;2;SG
+stanssata	et ole stanssannut	V;ACT;PRS;PRF;NEG;IND;2;SG
+hollannin kieli	hollannin kielellä	N;AT+ESS;SG
+satumainen	satumaiset	ADJ;NOM;PL
+vauras	vaurain	ADJ;INS;PL
+vitsa	vitsa	N;NOM;SG
+verkkorikos	verkkorikoksista	N;IN+ABL;PL
+synonyymi	synonyymissä	N;IN+ESS;SG
+tukkoinen	tukkoisen	ADJ;GEADJ;SG
+kärhämöidä	kärhämöidä	V;NFIN
+napittaa	olisitte napittaneet	V;ACT;PRS;PRF;POS;COND;2;PL
+aivorunko	aivorunkojen	N;GEN;PL
+öljytuikku	öljytuikut	N;NOM;PL
+arabisti	arabistilta	N;AT+ABL;SG
+brodyyrinauha	brodyyrinauhoihin	N;IN+ALL;PL
+tiuketa	olit tiukennut	V;ACT;PST;PRF;POS;IND;2;SG
+pikaviestittää	olkoon pikaviestittänyt	V;ACT;PRS;PRF;POS;IMP;3;SG
+eskadroona	eskadroonille	N;AT+ALL;PL
+kauppasieni	kauppasientä	N;PRT;SG
+nyhtäistä	ei ole nyhtäissyt	V;ACT;PRS;PRF;NEG;IND;3;SG
+suhteellisuudentaju	suhteellisuudentajutta	N;PRIV;SG
+ristiinnaulitunkuva	ristiinnaulitunkuvoina	N;FRML;PL
+pajupilli	pajupillittä	N;PRIV;SG
+kaseerata	eivät kaseeranne	V;ACT;PRS;NEG;POT;3;PL
+kirjakauppa	kirjakauppaa	N;PRT;SG
+ikävystyä	ei ikävystyttäisi	V;PASS;PRS;NEG;COND
+kiropraktiikka	kiropraktiikaksi	N;TRANS;SG
+tulla toimeen	tullevat toimeen	V;ACT;PRS;POS;POT;3;PL
+homopari	homoparit	N;ACC;PL
+rassi	rasseja	N;PRT;PL
+superseos	superseoksin	N;INS;PL
+laiskistua	lienee laiskistunut	V;ACT;PRS;PRF;POS;POT;3;SG
+kiukustua	olkoot kiukustuneet	V;ACT;PRS;PRF;POS;IMP;3;PL
+stukturoida	ette olisi stukturoineet	V;ACT;PRS;PRF;NEG;COND;2;PL
+harhaanvievä	harhaanvievällä	ADJ;AT+ESS;SG
+dementoida	dementoit	V;ACT;PST;POS;IND;2;SG
+esivahvistin	esivahvistimilla	N;AT+ESS;PL
+krouvi	krouvit	N;ACC;PL
+nirri	nirristä	N;IN+ABL;SG
+integroida	ovat integroineet	V;ACT;PRS;PRF;POS;IND;3;PL
+dubbata	on dubbannut	V;ACT;PRS;PRF;POS;IND;3;SG
+subjektivisti	subjektivisteina	N;FRML;PL
+sotkeentua	lienevät sotkeentuneet	V;ACT;PRS;PRF;POS;POT;3;PL
+koetus	koetusta	N;PRT;SG
+sydämellinen	sydämellisine	ADJ;COM;PL
+laihdutuskuuri	laihdutuskuuriksi	N;TRANS;SG
+alkuilta	alkuiltoina	N;FRML;PL
+haitari	haitareineen	N;COM;PL
+viipaloida	emme viipaloi	V;ACT;PRS;NEG;IND;1;PL
+fokusoitua	et ole fokusoitunut	V;ACT;PRS;PRF;NEG;IND;2;SG
+toimittaa	et liene toimittanut	V;ACT;PRS;PRF;NEG;POT;2;SG
+käsinkosketeltava	käsinkosketeltavina	ADJ;FRML;PL
+markkinatutkimus	markkinatutkimuksiksi	N;TRANS;PL
+rustoutua	olkaa rustoutuneet	V;ACT;PRS;PRF;POS;IMP;2;PL
+ännä	ännälle	N;AT+ALL;SG
+impeys	impeydessä	N;IN+ESS;SG
+kruppi	kruppiin	N;IN+ALL;SG
+tammensavurousku	tammensavurouskuna	N;FRML;SG
+järkiintyä	eivät olisi järkiintyneet	V;ACT;PRS;PRF;NEG;COND;3;PL
+egyptologia	egyptologiat	N;NOM;PL
+tasalämpöisyys	tasalämpöisyyksissä	N;IN+ESS;PL
+kävellä	ovat kävelleet	V;ACT;PRS;PRF;POS;IND;3;PL
+bisnesmies	bisnesmiehen	N;GEN;SG
+haastaa oikeuteen	olisi haastettu oikeuteen	V;PASS;PRS;PRF;POS;COND
+silppuri	silppuriin	N;IN+ALL;SG
+liftaaja	liftaajiin	N;IN+ALL;PL
+romutus	romutus	N;ACC;SG
+gammayökkönen	gammayökkösille	N;AT+ALL;PL
+hehkua	älä ole hehkunut	V;ACT;PRS;PRF;NEG;IMP;2;SG
+puskikko	puskikossa	N;IN+ESS;SG
+vyyhti	vyyhtien	N;GEN;PL
+hyppyyttää	älä hyppyytä	V;ACT;PRS;NEG;IMP;2;SG
+äimistyttää	emme liene äimistyttäneet	V;ACT;PRS;PRF;NEG;POT;1;PL
+takaperoinen	takaperoinen	ADJ;ACC;SG
+turmeltua	olkoon turmelluttu	V;PASS;PRS;PRF;POS;IMP
+keikaroida	keikaroinee	V;ACT;PRS;POS;POT;3;SG
+sähkönjohdin	sähkönjohtimesta	N;IN+ABL;SG
+tavuttua	lienemme tavuttuneet	V;ACT;PRS;PRF;POS;POT;1;PL
+pyhimys	pyhimyksiä	N;PRT;PL
+muninta	muninnasta	N;IN+ABL;SG
+shoppailla	olen shoppaillut	V;ACT;PRS;PRF;POS;IND;1;SG
+lastaaminen	lastaamisiksi	N;TRANS;PL
+ohutneulabiopsia	ohutneulabiopsioin	N;INS;PL
+geisha	geishaksi	N;TRANS;SG
+stationaarinen	stationaarisesta	ADJ;IN+ABL;SG
+laktoosi	laktooseina	N;FRML;PL
+jämerä	jämerät	ADJ;ACC;PL
+arboretum	arboretumille	N;AT+ALL;SG
+aktivisti	aktivistia	N;PRT;SG
+peräpuikko	peräpuikoilla	N;AT+ESS;PL
+maailmanjärjestö	maailmanjärjestöltä	N;AT+ABL;SG
+automaattinen	automaattisiksi	ADJ;TRANS;PL
+lännenelokuva	lännenelokuviksi	N;TRANS;PL
+seepramakrilli	seepramakrilleilta	N;AT+ABL;PL
+edunvalvonta	edunvalvonnasta	N;IN+ABL;SG
+moikuna	moikunoineen	N;COM;PL
+oopperakuoro	oopperakuorot	N;NOM;PL
+kirjavoida	emme olisi kirjavoineet	V;ACT;PRS;PRF;NEG;COND;1;PL
+erinomainen	erinomaisina	ADJ;FRML;PL
+purkki	purkkiin	N;IN+ALL;SG
+norjeta	ei norjettane	V;PASS;PRS;NEG;POT
+kulmata	kulmata	V;NFIN
+nikkelisulfaatti	nikkelisulfaattien	N;GEN;PL
+guineanruostegueretsa	guineanruostegueretsoitta	N;PRIV;PL
+assosiaatiolaki	assosiaatiolait	N;NOM;PL
+läimäistä	olette läimäisseet	V;ACT;PRS;PRF;POS;IND;2;PL
+ei-oo	ei-oolle	N;AT+ALL;SG
+hirmumyrsky	hirmumyrsky	N;NOM;SG
+määränpää	määränpäähän	N;IN+ALL;SG
+nefroliitti	nefroliiteitta	N;PRIV;PL
+sukellusvene	sukellusveneestä	N;IN+ABL;SG
+mulkoilla	ole mulkoillut	V;ACT;PRS;PRF;POS;IMP;2;SG
+naisvaltainen	naisvaltaisen	ADJ;GEADJ;SG
+ekonomi	ekonomeista	N;IN+ABL;PL
+pyörähtää	ei pyörähdä	V;ACT;PRS;NEG;IND;3;SG
+helmi-itiö	helmi-itiöiden	N;GEN;PL
+lainanantaja	lainanantajan	N;GEN;SG
+toteuttaa	eivät toteuttane	V;ACT;PRS;NEG;POT;3;PL
+perus	peruksena	N;FRML;SG
+läiskyä	läiskykäämme	V;ACT;PRS;POS;IMP;1;PL
+pikkulapasotka	pikkulapasotkaksi	N;TRANS;SG
+pohjoisfriisi	pohjoisfriisillä	N;AT+ESS;SG
+spartalainen	spartalaisissa	N;IN+ESS;PL
+diskata	olisitte diskanneet	V;ACT;PRS;PRF;POS;COND;2;PL
+silmukkalanka	silmukkalankoihin	N;IN+ALL;PL
+perinnötön	perinnöttömillä	ADJ;AT+ESS;PL
+jaksotus	jaksotukseksi	N;TRANS;SG
+primitiivireaktio	primitiivireaktio	N;ACC;SG
+koiravaljakko	koiravaljakkoa	N;PRT;SG
+Molotovin koktaili	Molotovin koktailissa	N;IN+ESS;SG
+viiltää	viilsitte	V;ACT;PST;POS;IND;2;PL
+aitojalohaukka	aitojalohaukkoina	N;FRML;PL
+uimarakko	uimarakkojen	N;GEN;PL
+rynnistää	rynnistämme	V;ACT;PRS;POS;IND;1;PL
+pengertää	emme olleet pengertäneet	V;ACT;PST;PRF;NEG;IND;1;PL
+intransitiiviverbi	intransitiiviverbi	N;ACC;SG
+vilpola	vilpoloitta	N;PRIV;PL
+hautautua	eivät ole hautautuneet	V;ACT;PRS;PRF;NEG;IND;3;PL
+myötäkytkentä	myötäkytkentöinä	N;FRML;PL
+matta	matoista	ADJ;IN+ABL;PL
+kultivoida	ei olisi kultivoinut	V;ACT;PRS;PRF;NEG;COND;3;SG
+miekanisku	miekaniskusta	N;IN+ABL;SG
+pyyntö	pyyntöä	N;PRT;SG
+notkutella	et olisi notkutellut	V;ACT;PRS;PRF;NEG;COND;2;SG
+ilmoitella	ilmoiteltiin	V;PASS;PST;POS;IND
+falangi	falangit	N;ACC;PL
+niputtaa	ei ole niputtanut	V;ACT;PRS;PRF;NEG;IND;3;SG
+köysi	köytenä	N;FRML;SG
+riisunta	riisunnat	N;ACC;PL
+hirttyä	ei hirttyisi	V;ACT;PRS;NEG;COND;3;SG
+kränä	kränin	N;INS;PL
+jälkipuhe	jälkipuheiksi	N;TRANS;PL
+neurotoksiini	neurotoksiinista	N;IN+ABL;SG
+ääntyä	äännyimme	V;ACT;PST;POS;IND;1;PL
+kenkälankki	kenkälankkeina	N;FRML;PL
+seikkailla	seikkailkoon	V;ACT;PRS;POS;IMP;3;SG
+uskaliaisuus	uskaliaisuudessa	N;IN+ESS;SG
+evaluoida	evaluoisivat	V;ACT;PRS;POS;COND;3;PL
+pohdiskella	et pohdiskellut	V;ACT;PST;NEG;IND;2;SG
+optimi	optimissa	N;IN+ESS;SG
+kristillisdemokraattinen	kristillisdemokraattisesta	ADJ;IN+ABL;SG
+arvonalennus	arvonalennuksilta	N;AT+ABL;PL
+mönkiä	möngi	V;ACT;PRS;POS;IMP;2;SG
+eugenikko	eugenikkoihin	N;IN+ALL;PL
+myötäilijä	myötäilijöinä	N;FRML;PL
+kruunata	en kruunaisi	V;ACT;PRS;NEG;COND;1;SG
+vieroittaa	älä ole vieroittanut	V;ACT;PRS;PRF;NEG;IMP;2;SG
+maalitaulu	maalitauluihin	N;IN+ALL;PL
+lata	ladaksi	N;TRANS;SG
+sarjakeltano	sarjakeltanossa	N;IN+ESS;SG
+ilmakuivattaa	emme liene ilmakuivattaneet	V;ACT;PRS;PRF;NEG;POT;1;PL
+dekstrometorfaani	dekstrometorfaaneissa	N;IN+ESS;PL
+puskikko	puskikoissa	N;IN+ESS;PL
+paukauttaa	paukautettiin	V;PASS;PST;POS;IND
+korotuttaa	älkäämme olko korotuttaneet	V;ACT;PRS;PRF;NEG;IMP;1;PL
+luhistaa	luhistamme	V;ACT;PRS;POS;IND;1;PL
+viskatsa	viskatsalta	N;AT+ABL;SG
+suojavalli	suojavalleina	N;FRML;PL
+suoristua	olisit suoristunut	V;ACT;PRS;PRF;POS;COND;2;SG
+puuhailija	puuhailijana	N;FRML;SG
+relaksantti	relaksantteina	N;FRML;PL
+jäätyä	älkäämme olko jäätyneet	V;ACT;PRS;PRF;NEG;IMP;1;PL
+puolustusalue	puolustusaluein	N;INS;PL
+aramea	arameoille	N;AT+ALL;PL
+hullunmylly	hullunmyllyillä	N;AT+ESS;PL
+rupla	ruplitta	N;PRIV;PL
+johdottaa	ette olisi johdottaneet	V;ACT;PRS;PRF;NEG;COND;2;PL
+toimipiste	toimipiste	N;NOM;SG
+metaanihydraatti	metaanihydraattien	N;GEN;PL
+ilmetä	on ilmennyt	V;ACT;PRS;PRF;POS;IND;3;SG
+kakistella	ei kakistella	V;PASS;PRS;NEG;IND
+sananlasku	sananlaskusta	N;IN+ABL;SG
+kolmirivi	kolmiriville	N;AT+ALL;SG
+mitellä	lienee mitelty	V;PASS;PRS;PRF;POS;POT
+nekrofagia	nekrofagioineen	N;COM;PL
+sanoittaa	sanoittanemme	V;ACT;PRS;POS;POT;1;PL
+liituraita	liituraidoille	N;AT+ALL;PL
+doupata	doupatkaamme	V;ACT;PRS;POS;IMP;1;PL
+myelooma	myeloomalta	N;AT+ABL;SG
+summaus	summausten	N;GEN;PL
+napsautella	napsauttelimme	V;ACT;PST;POS;IND;1;PL
+hiljentyä	olen hiljentynyt	V;ACT;PRS;PRF;POS;IND;1;SG
+suostutella	olin suostutellut	V;ACT;PST;PRF;POS;IND;1;SG
+banketti	banketit	N;ACC;PL
+kohdella	en kohdellut	V;ACT;PST;NEG;IND;1;SG
+lepuuttaa	olkoot lepuuttaneet	V;ACT;PRS;PRF;POS;IMP;3;PL
+guarani	guaranille	N;AT+ALL;SG
+tyrkkiä	ei olisi tyrkkinyt	V;ACT;PRS;PRF;NEG;COND;3;SG
+kiistattomin	kiistattomimmalta	ADJ;AT+ABL;SG
+harhauttaa	on harhauttanut	V;ACT;PRS;PRF;POS;IND;3;SG
+miesparka	miesparoista	N;IN+ABL;PL
+indefiniittinen	indefiniittiselle	ADJ;AT+ALL;SG
+senkka	senkkaa	N;PRT;SG
+arkipyhä	arkipyhän	N;GEN;SG
+seeprasiipisimppu	seeprasiipisimpuilla	N;AT+ESS;PL
+pohjallinen	pohjallinen	N;ACC;SG
+hätkähtää	ovat hätkähtäneet	V;ACT;PRS;PRF;POS;IND;3;PL
+otsonikato	otsonikadon	N;GEN;SG
+kivertyä	ei ollut kiverrytty	V;PASS;PST;PRF;NEG;IND
+symbolinen	symbolinen	ADJ;NOM;SG
+antaa opetus	älköön olko antanut	V;ACT;PRS;PRF;NEG;IMP;3;SG
+kaupallistaa	olitte kaupallistaneet	V;ACT;PST;PRF;POS;IND;2;PL
+sievistyä	sievistyttiin	V;PASS;PST;POS;IND
+pysyä	en ole pysynyt	V;ACT;PRS;PRF;NEG;IND;1;SG
+nuukailla	ette nuukaile	V;ACT;PRS;NEG;IND;2;PL
+kiinteyttää	olet kiinteyttänyt	V;ACT;PRS;PRF;POS;IND;2;SG
+tukehtua	et olisi tukehtunut	V;ACT;PRS;PRF;NEG;COND;2;SG
+suomenruotsi	suomenruotsiin	N;IN+ALL;SG
+kärähtää	kärähdettävä	V.PTCP;PASS;PRS
+selkeyttää	älkööt selkeyttäkö	V;ACT;PRS;NEG;IMP;3;PL
+tervehtiä	tervehditään	V;PASS;PRS;POS;IND
+pahastua	olisit pahastunut	V;ACT;PRS;PRF;POS;COND;2;SG
+tylsyttää	tylsyttänette	V;ACT;PRS;POS;POT;2;PL
+sosiaalistaa	sosiaalistakoon	V;ACT;PRS;POS;IMP;3;SG
+vinylaali	vinylaalit	N;ACC;PL
+amazonianpuumuura	amazonianpuumuuria	N;PRT;PL
+pullottaa	pullotin	V;ACT;PST;POS;IND;1;SG
+astronomi	astronomille	N;AT+ALL;SG
+seerumitauti	seerumitautien	N;GEN;PL
+huudattaa	huudattaisin	V;ACT;PRS;POS;COND;1;SG
+asutuskeskus	asutuskeskus	N;ACC;SG
+kellaroida	kellaroikaamme	V;ACT;PRS;POS;IMP;1;PL
+artoteekki	artoteekille	N;AT+ALL;SG
+tungeksia	tungeksivat	V;ACT;PST;POS;IND;3;PL
+strutsinsulka	strutsinsulassa	N;IN+ESS;SG
+startata	ole startannut	V;ACT;PRS;PRF;POS;IMP;2;SG
+digitaalinäyttö	digitaalinäytöttä	N;PRIV;SG
+metalli	metallitta	N;PRIV;SG
+oneirologia	oneirologioiden	N;GEN;PL
+abiturientti	abiturienteissa	N;IN+ESS;PL
+nynnyillä	älkää nynnyilkö	V;ACT;PRS;NEG;IMP;2;PL
+punapensselisika	punapensselisikoja	N;PRT;PL
+kafferi	kafferille	N;AT+ALL;SG
+vaania	ette olisi vaanineet	V;ACT;PRS;PRF;NEG;COND;2;PL
+suustaladattava	suustaladattava	ADJ;ACC;SG
+rahkarousku	rahkarouskut	N;NOM;PL
+tiuheta	ette tiuhenneet	V;ACT;PST;NEG;IND;2;PL
+imupaperi	imupaperein	N;INS;PL
+hommata	olisivat hommanneet	V;ACT;PRS;PRF;POS;COND;3;PL
+flavivirus	flavivirusta	N;PRT;SG
+nirhaista	ei ole nirhaistu	V;PASS;PRS;PRF;NEG;IND
+asteittaisuus	asteittaisuuksissa	N;IN+ESS;PL
+pistää	en ollut pistänyt	V;ACT;PST;PRF;NEG;IND;1;SG
+uloimmainen	uloimmaisista	ADJ;IN+ABL;PL
+patonki	patongeissa	N;IN+ESS;PL
+psilosiini	psilosiinitta	N;PRIV;SG
+härskiintyä	ette härskiinny	V;ACT;PRS;NEG;IND;2;PL
+ajanottolaite	ajanottolaitteella	N;AT+ESS;SG
+possunliha	possunlihoja	N;PRT;PL
+ääriehdokas	ääriehdokkaina	N;FRML;PL
+kaksinkertaistaa	ei kaksinkertaistettu	V;PASS;PST;NEG;IND
+kynäilijä	kynäilijä	N;ACC;SG
+guineansimpanssi	guineansimpansseineen	N;COM;PL
+rauhanturvaaja	rauhanturvaajaa	N;PRT;SG
+hiven	hiveneksi	N;TRANS;SG
+tieteenteoria	tieteenteorioille	N;AT+ALL;PL
+benjihyppy	benjihypyksi	N;TRANS;SG
+puvustaa	puvustanemme	V;ACT;PRS;POS;POT;1;PL
+praktisoida	olen praktisoinut	V;ACT;PRS;PRF;POS;IND;1;SG
+radikalisoitua	ei olisi radikalisoitunut	V;ACT;PRS;PRF;NEG;COND;3;SG
+jälkeenjäänyt	jälkeenjääneille	ADJ;AT+ALL;PL
+globalisoituminen	globalisoitumisena	N;FRML;SG
+seurata	ei ole seurattu	V;PASS;PRS;PRF;NEG;IND
+miekkari	miekkaria	N;PRT;SG
+bromoformi	bromoformeiksi	N;TRANS;PL
+pieni verenkierto	pienissä	N;IN+ESS;PL
+kohdentaa	lienen kohdentanut	V;ACT;PRS;PRF;POS;POT;1;SG
+höylätä	höyläät	V;ACT;PRS;POS;IND;2;SG
+kastamaton	kastamattoman	ADJ;GEADJ;SG
+vuorotteluvapaa	vuorotteluvapaisiin	N;IN+ALL;PL
+siteerata	siteeraisi	V;ACT;PRS;POS;COND;3;SG
+vilkku	vilkkuna	N;FRML;SG
+pohatta	pohatalta	N;AT+ABL;SG
+räimiä	ette räimineet	V;ACT;PST;NEG;IND;2;PL
+valuutanvaihto	valuutanvaihdossa	N;IN+ESS;SG
+kasakka	kasakkaa	N;PRT;SG
+käyrä	käyrät	ADJ;NOM;PL
+höyryvasara	höyryvasaran	N;GEN;SG
+kehätie	kehäteistä	N;IN+ABL;PL
+pudottautua	pudottauduimme	V;ACT;PST;POS;IND;1;PL
+röyhtäillä	älä röyhtäile	V;ACT;PRS;NEG;IMP;2;SG
+vilkutella	vilkutteleva	V.PTCP;ACT;PRS
+jarruuntua	eivät olleet jarruuntuneet	V;ACT;PST;PRF;NEG;IND;3;PL
+pahnue	pahnueeseen	N;IN+ALL;SG
+peräsuolentulehdus	peräsuolentulehduksille	N;AT+ALL;PL
+yläkonjunktio	yläkonjunktiolle	N;AT+ALL;SG
+metyyliformiaatti	metyyliformiaatitta	N;PRIV;SG
+metastasoida	metastasoisitte	V;ACT;PRS;POS;COND;2;PL
+chakra	chakroille	N;AT+ALL;PL
+masokistinen	masokistiselle	ADJ;AT+ALL;SG
+palstamillimetri	palstamillimetriksi	N;TRANS;SG
+adessiivi	adessiivein	N;INS;PL
+nolostua	olet nolostunut	V;ACT;PRS;PRF;POS;IND;2;SG
+pioneeri	pioneereihin	N;IN+ALL;PL
+puristaa	on puristettu	V;PASS;PRS;PRF;POS;IND
+liittää	liittäköön	V;ACT;PRS;POS;IMP;3;SG
+maukkain	maukkaimmista	ADJ;IN+ABL;PL
+keltahapero	keltahaperoiksi	N;TRANS;PL
+siansorkka	siansorkalla	N;AT+ESS;SG
+oluthuuruinen	oluthuuruiselta	N;AT+ABL;SG
+kokilli	kokilleilla	N;AT+ESS;PL
+loppua	et ole loppunut	V;ACT;PRS;PRF;NEG;IND;2;SG
+lajittua	olin lajittunut	V;ACT;PST;PRF;POS;IND;1;SG
+abstraktistua	abstraktistu	V;ACT;PRS;POS;IMP;2;SG
+svengata	olen svengannut	V;ACT;PRS;PRF;POS;IND;1;SG
+kaupunkilainen	kaupunkilaisissa	N;IN+ESS;PL
+habitus	habitukseksi	N;TRANS;SG
+korjuuttaa	olkoot korjuuttaneet	V;ACT;PRS;PRF;POS;IMP;3;PL
+tyttöbändi	tyttöbändeinä	N;FRML;PL
+majoittautua	et ole majoittautunut	V;ACT;PRS;PRF;NEG;IND;2;SG
+henkilöityä	ei henkilöitynyt	V;ACT;PST;NEG;IND;3;SG
+epätarkkuus	epätarkkuuksiksi	N;TRANS;PL
+vanttu	vantuilla	N;AT+ESS;PL
+kädenselkä	kädenselin	N;INS;PL
+valuutanvaihto	valuutanvaihdoissa	N;IN+ESS;PL
+aaltoenergia	aaltoenergioineen	N;COM;PL
+pöytäsuola	pöytäsuolalle	N;AT+ALL;SG
+pitkulainen	pitkulaisilta	ADJ;AT+ABL;PL
+varustaa	varustakoon	V;ACT;PRS;POS;IMP;3;SG
+kehottaa	kehottaa	V;ACT;PRS;POS;IND;3;SG
+anodisoida	olette anodisoineet	V;ACT;PRS;PRF;POS;IND;2;PL
+coulombi	coulombein	N;INS;PL
+salaojittaa	salaojittaisi	V;ACT;PRS;POS;COND;3;SG
+heroismi	heroismi	N;NOM;SG
+pieteetti	pieteetiltä	N;AT+ABL;SG
+alastomin	alastomimpina	ADJ;FRML;PL
+bentoniitti	bentoniitteina	N;FRML;PL
+pillahtaa	pillahdat	V;ACT;PRS;POS;IND;2;SG
+lyykistää	ei lyykistäne	V;ACT;PRS;NEG;POT;3;SG
+kasvittua	kasvittukaa	V;ACT;PRS;POS;IMP;2;PL
+syllabinen	syllabisille	ADJ;AT+ALL;PL
+baryytti	baryytitta	N;PRIV;SG
+silpoutua	lienevät silpoutuneet	V;ACT;PRS;PRF;POS;POT;3;PL
+desalinoida	olkoon desalinoitu	V;PASS;PRS;PRF;POS;IMP
+belgialainen	belgialaisena	N;FRML;SG
+saareke	saarekkeet	N;NOM;PL
+alenema	alenemasta	N;IN+ABL;SG
+loppupuoli	loppupuolilla	N;AT+ESS;PL
+mutakuono	mutakuonolla	N;AT+ESS;SG
+jammata	ette olisi jammanneet	V;ACT;PRS;PRF;NEG;COND;2;PL
+ihailija	ihailijasta	N;IN+ABL;SG
+sovitin	sovittimet	N;NOM;PL
+vatsatanssijatar	vatsatanssijattarilla	N;AT+ESS;PL
+jyristää	jyristettiin	V;PASS;PST;POS;IND
+mahtailla	olit mahtaillut	V;ACT;PST;PRF;POS;IND;2;SG
+tvistata	eivät olleet tvistanneet	V;ACT;PST;PRF;NEG;IND;3;PL
+yksityistyä	olen yksityistynyt	V;ACT;PRS;PRF;POS;IND;1;SG
+karvoittua	lienet karvoittunut	V;ACT;PRS;PRF;POS;POT;2;SG
+budjettiongelma	budjettiongelmaa	N;PRT;SG
+heprealainen	heprealaiset	ADJ;ACC;PL
+partitioida	emme partitioineet	V;ACT;PST;NEG;IND;1;PL
+ukkovarvas	ukkovarpaita	N;PRT;PL
+musisoida	musisoitakoon	V;PASS;PRS;POS;IMP
+herjetä	lienee herjennyt	V;ACT;PRS;PRF;POS;POT;3;SG
+halvauttaa	emme ole halvauttaneet	V;ACT;PRS;PRF;NEG;IND;1;PL
+haistattaa	on haistatettu	V;PASS;PRS;PRF;POS;IND
+bakteerimyrkky	bakteerimyrkky	N;NOM;SG
+alivoimapeli	alivoimapelistä	N;IN+ABL;SG
+äidinkielinen	äidinkielinen	ADJ;ACC;SG
+kutea	ei kudettane	V;PASS;PRS;NEG;POT
+sähkösaha	sähkösahassa	N;IN+ESS;SG
+käyttäytyä	ette ole käyttäytyneet	V;ACT;PRS;PRF;NEG;IND;2;PL
+synkooppi	synkoopitta	N;PRIV;SG
+määrittää	olisimme määrittäneet	V;ACT;PRS;PRF;POS;COND;1;PL
+lätkäistä	ette ole lätkäisseet	V;ACT;PRS;PRF;NEG;IND;2;PL
+tekstailla	tekstailin	V;ACT;PST;POS;IND;1;SG
+isoloida	isoloitiin	V;PASS;PST;POS;IND
+eksekantti	eksekanteilta	N;AT+ABL;PL
+hinaus	hinaukseen	N;IN+ALL;SG
+korotuttaa	ei ole korotuttanut	V;ACT;PRS;PRF;NEG;IND;3;SG
+takiloida	olisin takiloinut	V;ACT;PRS;PRF;POS;COND;1;SG
+immateriaalioikeudet	immateriaalioikeuksin	N;INS;PL
+julmistua	eivät olleet julmistuneet	V;ACT;PST;PRF;NEG;IND;3;PL
+nenänpää	nenänpäin	N;INS;PL
+soluautomaatti	soluautomaatteihin	N;IN+ALL;PL
+gangsterismi	gangsterismilta	N;AT+ABL;SG
+aatra	aatrasta	N;IN+ABL;SG
+kuninkaallinen	kuninkaalliseksi	ADJ;TRANS;SG
+tepsuttaa	et ollut tepsuttanut	V;ACT;PST;PRF;NEG;IND;2;SG
+kreikkalaiskatolilainen	kreikkalaiskatolilaisella	ADJ;AT+ESS;SG
+jalokivioppi	jalokivioppi	N;NOM;SG
+irrotella	emme liene irrotelleet	V;ACT;PRS;PRF;NEG;POT;1;PL
+fenolipunainen	fenolipunaisin	N;INS;PL
+rakenteistaa	ei rakenteistettaisi	V;PASS;PRS;NEG;COND
+aarnihonka	aarnihongaksi	N;TRANS;SG
+kaikkivoipaisuus	kaikkivoipaisuuksin	N;INS;PL
+diaario	diaariolla	N;AT+ESS;SG
+paljain	paljaimpiin	ADJ;IN+ALL;PL
+h-hetki	h-hetkiä	N;PRT;PL
+baasis	baasiksille	N;AT+ALL;PL
+levittää	ette levitä	V;ACT;PRS;NEG;IND;2;PL
+laiskuri	laiskurista	N;IN+ABL;SG
+raataa	älköön raadettako	V;PASS;PRS;NEG;IMP
+saada surmansa	saamme	V;ACT;PRS;POS;IND;1;PL
+katumaasturi	katumaasturit	N;ACC;PL
+nuuhkia	ei nuuhkisi	V;ACT;PRS;NEG;COND;3;SG
+elokuva-ala	elokuva-aloille	N;AT+ALL;PL
+nuoleskella	nuoleskeltakoon	V;PASS;PRS;POS;IMP
+liipata	olisi liipannut	V;ACT;PRS;PRF;POS;COND;3;SG
+myöhäisilta	myöhäisillan	N;GEN;SG
+balkanisoida	balkanisoisitte	V;ACT;PRS;POS;COND;2;PL
+suodattua	suodattunette	V;ACT;PRS;POS;POT;2;PL
+sondeerata	olkoot sondeeranneet	V;ACT;PRS;PRF;POS;IMP;3;PL
+orastua	orastukaamme	V;ACT;PRS;POS;IMP;1;PL
+shiialainen	shiialaisena	ADJ;FRML;SG
+säikähtää	säikähtävä	V.PTCP;ACT;PRS
+panna merkille	et panisi merkille	V;ACT;PRS;NEG;COND;2;SG
+tislata	ette olleet tislanneet	V;ACT;PST;PRF;NEG;IND;2;PL
+siirtymä	siirtymä	N;NOM;SG
+kummastella	kummasteltaisiin	V;PASS;PRS;POS;COND
+ateroskleroosi	ateroskleroosiksi	N;TRANS;SG
+sosiaalistaa	ette sosiaalistaneet	V;ACT;PST;NEG;IND;2;PL
+säästäväisyys	säästäväisyyksittä	N;PRIV;PL
+seljetä	selkenisi	V;ACT;PRS;POS;COND;3;SG
+voitonhimoinen	voitonhimoisetta	ADJ;PRIV;SG
+kalkkiuma	kalkkiumat	N;NOM;PL
+valvontakamera	valvontakameroille	N;AT+ALL;PL
+avautua	älä ole avautunut	V;ACT;PRS;PRF;NEG;IMP;2;SG
+aristella	älköön aristeltako	V;PASS;PRS;NEG;IMP
+uruguaylainen	uruguaylaisista	ADJ;IN+ABL;PL
+taitoniekka	taitoniekkoineen	N;COM;PL
+gaviaali	gaviaaleiksi	N;TRANS;PL
+jyrrätä	ette jyrränneet	V;ACT;PST;NEG;IND;2;PL
+itämaalainen	itämaalaisille	N;AT+ALL;PL
+liehtoa	älkööt liehtoko	V;ACT;PRS;NEG;IMP;3;PL
+tsakra	tsakra	N;NOM;SG
+uimastadion	uimastadionit	N;NOM;PL
+ävärtyä	ävärryt	V;ACT;PRS;POS;IND;2;SG
+kupsahtaa	lienee kupsahtanut	V;ACT;PRS;PRF;POS;POT;3;SG
+ikkunaruutu	ikkunaruutuina	N;FRML;PL
+niinisyy	niinisyineen	N;COM;PL
+aselepo	aselepo	N;ACC;SG
+stipendirahasto	stipendirahastoilta	N;AT+ABL;PL
+sujua	on sujunut	V;ACT;PRS;PRF;POS;IND;3;SG
+ärjähtää	eivät ärjähtäne	V;ACT;PRS;NEG;POT;3;PL
+demokratisoitua	olkaa demokratisoituneet	V;ACT;PRS;PRF;POS;IMP;2;PL
+huuruta	lienette huurunneet	V;ACT;PRS;PRF;POS;POT;2;PL
+reunaelementtimenetelmä	reunaelementtimenetelmän	N;GEN;SG
+mulkaista	eivät olisi mulkaisseet	V;ACT;PRS;PRF;NEG;COND;3;PL
+keitto	keittoineen	N;COM;PL
+näännyttää	näännyttänemme	V;ACT;PRS;POS;POT;1;PL
+hytisyttää	olet hytisyttänyt	V;ACT;PRS;PRF;POS;IND;2;SG
+elotuli	elotulet	N;ACC;PL
+kurata	olet kurannut	V;ACT;PRS;PRF;POS;IND;2;SG
+kylmätä	ei kylmätä	V;PASS;PRS;NEG;IND
+mikrogramma	mikrogrammoina	N;FRML;PL
+liitäntä	liitännöittä	N;PRIV;PL
+huojua	huojutaan	V;PASS;PRS;POS;IND
+sädehtiä	olimme sädehtineet	V;ACT;PST;PRF;POS;IND;1;PL
+imettää	ette imettäisi	V;ACT;PRS;NEG;COND;2;PL
+säilö	säilöjä	N;PRT;PL
+synapsi	synapsi	N;NOM;SG
+huuhtaista	emme olleet huuhtaisseet	V;ACT;PST;PRF;NEG;IND;1;PL
+haistella	et liene haistellut	V;ACT;PRS;PRF;NEG;POT;2;SG
+liriä	et lirine	V;ACT;PRS;NEG;POT;2;SG
+futurologinen	futurologisin	ADJ;INS;PL
+nainti	naintia	N;PRT;SG
+surffailla	surffailtu	V.PTCP;PASS;PST
+jomottaa	olisitte jomottaneet	V;ACT;PRS;PRF;POS;COND;2;PL
+syyllistää	älkööt olko syyllistäneet	V;ACT;PRS;PRF;NEG;IMP;3;PL
+bareesi	bareesitta	N;PRIV;SG
+tikahtua	ei ole tikahduttu	V;PASS;PRS;PRF;NEG;IND
+tulimyrsky	tulimyrskyttä	N;PRIV;SG
+nuorentua	nuorentuvat	V;ACT;PRS;POS;IND;3;PL
+kaivanto	kaivanto	N;NOM;SG
+konsultoida	olisi konsultoitu	V;PASS;PRS;PRF;POS;COND
+reunalista	reunalistaa	N;PRT;SG
+gaboninmarakatti	gaboninmarakattina	N;FRML;SG
+värikylläisyys	värikylläisyydeltä	N;AT+ABL;SG
+stauroliitti	stauroliitit	N;ACC;PL
+mielenterveys	mielenterveyksissä	N;IN+ESS;PL
+kulkeentua	lienevät kulkeentuneet	V;ACT;PRS;PRF;POS;POT;3;PL
+koteloida	koteloinevat	V;ACT;PRS;POS;POT;3;PL
+hiiviskellä	emme hiiviskelle	V;ACT;PRS;NEG;POT;1;PL
+lapsivesi	lapsivesissä	N;IN+ESS;PL
+kuumeta	on kuumennut	V;ACT;PRS;PRF;POS;IND;3;SG
+himota	ei himonne	V;ACT;PRS;NEG;POT;3;SG
+integroiminen	integroimisineen	N;COM;PL
+vituttaa	älkää vituttako	V;ACT;PRS;NEG;IMP;2;PL
+polskia	ei ollut polskittu	V;PASS;PST;PRF;NEG;IND
+profylaksia	profylaksiana	N;FRML;SG
+biokenoosi	biokenoosiksi	N;TRANS;SG
+kuukausittainen	kuukausittaisten	ADJ;GEADJ;PL
+tulihelttaseitikki	tulihelttaseitikillä	N;AT+ESS;SG
+laimentua	älköön laimennuttako	V;PASS;PRS;NEG;IMP
+vilkuilla	vilkuile	V;ACT;PRS;POS;IMP;2;SG
+loitontua	olkoon loitontunut	V;ACT;PRS;PRF;POS;IMP;3;SG
+synnyinpäivä	synnyinpäiviin	N;IN+ALL;PL
+maiskauttaa	emme maiskauttane	V;ACT;PRS;NEG;POT;1;PL
+skaalautua	ette skaalaudu	V;ACT;PRS;NEG;IND;2;PL
+villavoirousku	villavoirouskun	N;GEN;SG
+muurautua	muurautunemme	V;ACT;PRS;POS;POT;1;PL
+hilsehtiä	olet hilsehtinyt	V;ACT;PRS;PRF;POS;IND;2;SG
+koulunkäynti	koulunkäynteihin	N;IN+ALL;PL
+laskea	olkaa laskeneet	V;ACT;PRS;PRF;POS;IMP;2;PL
+uinailla	uinaillemme	V;ACT;PRS;POS;POT;1;PL
+mennä nukkumaan	olisivat menneet nukkumaan	V;ACT;PRS;PRF;POS;COND;3;PL
+tomografi	tomografit	N;NOM;PL
+saali	saalille	N;AT+ALL;SG
+silkkihansikas	silkkihansikkaiden	N;GEN;PL
+surullisuus	surullisuudelle	N;AT+ALL;SG
+liemikuutio	liemikuutioksi	N;TRANS;SG
+syyte	syytteiltä	N;AT+ABL;PL
+mumista	olette mumisseet	V;ACT;PRS;PRF;POS;IND;2;PL
+tohtoroida	et ollut tohtoroinut	V;ACT;PST;PRF;NEG;IND;2;SG
+sydämistyä	et liene sydämistynyt	V;ACT;PRS;PRF;NEG;POT;2;SG
+palelluttaa	ei olisi palellutettu	V;PASS;PRS;PRF;NEG;COND
+kiertoilmaisu	kiertoilmaisuina	N;FRML;PL
+revanssi	revanssiin	N;IN+ALL;SG
+pielestää	olisivat pielestäneet	V;ACT;PRS;PRF;POS;COND;3;PL
+säätyerioikeus	säätyerioikeuksina	N;FRML;PL
+emi	emi	N;NOM;SG
+jutustella	lienemme jutustelleet	V;ACT;PRS;PRF;POS;POT;1;PL
+laavavirta	laavavirroilla	N;AT+ESS;PL
+äksyyntyä	olen äksyyntynyt	V;ACT;PRS;PRF;POS;IND;1;SG
+toitottaa	olkoon toitottanut	V;ACT;PRS;PRF;POS;IMP;3;SG
+menetellä	eivät menettelisi	V;ACT;PRS;NEG;COND;3;PL
+bassosäädin	bassosäätimiä	N;PRT;PL
+yrjö	yrjöstä	N;IN+ABL;SG
+tislain	tislain	N;NOM;SG
+sentralisoida	on sentralisoinut	V;ACT;PRS;PRF;POS;IND;3;SG
+syöksyhammas	syöksyhampaina	N;FRML;PL
+tornitus	tornitus	N;ACC;SG
+vuvuzela	vuvuzeloihin	N;IN+ALL;PL
+sotilaallistaa	sotilaallistakoon	V;ACT;PRS;POS;IMP;3;SG
+holhota	eivät holhonne	V;ACT;PRS;NEG;POT;3;PL
+kiukustua	ei kiukustuttu	V;PASS;PST;NEG;IND
+keskihermo	keskihermoille	N;AT+ALL;PL
+rasvaus	rasvauksetta	N;PRIV;SG
+liukastuttaa	ovat liukastuttaneet	V;ACT;PRS;PRF;POS;IND;3;PL
+vaatetus	vaatetusta	N;PRT;SG
+keinottelija	keinottelijan	N;GEN;SG
+mulkaista	mulkaisee	V;ACT;PRS;POS;IND;3;SG
+geropsykologia	geropsykologioitta	N;PRIV;PL
+otsonisoida	ei ole otsonisoitu	V;PASS;PRS;PRF;NEG;IND
+köyristää	köyristäköön	V;ACT;PRS;POS;IMP;3;SG
+slapstickkomedia	slapstickkomedioiden	N;GEN;PL
+olutpanimosuku	olutpanimosuvuin	N;INS;PL
+julistautua	on julistautunut	V;ACT;PRS;PRF;POS;IND;3;SG
+alueittainen	alueittaiseksi	ADJ;TRANS;SG
+valokuvamalli	valokuvamalli	N;ACC;SG
+miiminen	miimisissä	ADJ;IN+ESS;PL
+kainostella	kainostelkaamme	V;ACT;PRS;POS;IMP;1;PL
+päkiä	päkiä	N;ACC;SG
+nollamatriisi	nollamatriiseille	N;AT+ALL;PL
+paistaa	eivät paista	V;ACT;PRS;NEG;IND;3;PL
+ratifioida	ratifioinette	V;ACT;PRS;POS;POT;2;PL
+clear-tila	clear-tilaksi	N;TRANS;SG
+ruiskaista	lienen ruiskaissut	V;ACT;PRS;PRF;POS;POT;1;SG
+palkinto	palkintoineen	N;COM;PL
+luolasto	luolastoilla	N;AT+ESS;PL
+fikka	fikasta	N;IN+ABL;SG
+uimapuku	uimapuvuilta	N;AT+ABL;PL
+paketoida	paketoitte	V;ACT;PST;POS;IND;2;PL
+romppu	romppuna	N;FRML;SG
+merisairaus	merisairauksista	N;IN+ABL;PL
+nytkytys	nytkytystä	N;PRT;SG
+kuparoida	kuparoit	V;ACT;PST;POS;IND;2;SG
+hylkeenpyytäjä	hylkeenpyytäjille	N;AT+ALL;PL
+krakata	krakannee	V;ACT;PRS;POS;POT;3;SG
+kierteisyys	kierteisyydellä	N;AT+ESS;SG
+monografia	monografioihin	N;IN+ALL;PL
+sykertää	sykertäkäämme	V;ACT;PRS;POS;IMP;1;PL
+mainita	ei liene mainittu	V;PASS;PRS;PRF;NEG;POT
+kiivailija	kiivailijoina	N;FRML;PL
+ruusupippuri	ruusupippurein	N;INS;PL
+identiteetti	identiteeteiltä	N;AT+ABL;PL
+sheikki	sheikittä	N;PRIV;SG
+oikeudenkäyntiasiamies	oikeudenkäyntiasiamiehineen	N;COM;PL
+järähtää	ette järähtäne	V;ACT;PRS;NEG;POT;2;PL
+kellauttaa	et kellauttaisi	V;ACT;PRS;NEG;COND;2;SG
+bullterrieri	bullterrieri	N;ACC;SG
+riemuvoitto	riemuvoitotta	N;PRIV;SG
+notkeuttaa	ei olisi notkeutettu	V;PASS;PRS;PRF;NEG;COND
+riidellä	riitelen	V;ACT;PRS;POS;IND;1;SG
+sulku	sulkuja	N;PRT;PL
+kypsentyä	en olisi kypsentynyt	V;ACT;PRS;PRF;NEG;COND;1;SG
+ilmatieteellinen	ilmatieteelliset	ADJ;NOM;PL
+elinsiirto	elinsiirtoja	N;PRT;PL
+yhteistuotanto	yhteistuotannot	N;ACC;PL
+kuurata	et kuurannut	V;ACT;PST;NEG;IND;2;SG
+rauhanlähettiläs	rauhanlähettiläs	N;ACC;SG
+uhkapeli	uhkapeleineen	N;COM;PL
+huimapäisyys	huimapäisyyksille	N;AT+ALL;PL
+ohjautua	eivät olleet ohjautuneet	V;ACT;PST;PRF;NEG;IND;3;PL
+vegepurilainen	vegepurilaisilta	N;AT+ABL;PL
+jalkapallojoukkue	jalkapallojoukkueen	N;GEN;SG
+tyrkkiä	tyrkkikäämme	V;ACT;PRS;POS;IMP;1;PL
+tuhkarokko	tuhkarokoksi	N;TRANS;SG
+sokerikko	sokerikot	N;ACC;PL
+harmentaa	oli harmennettu	V;PASS;PST;PRF;POS;IND
