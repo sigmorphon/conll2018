@@ -1,0 +1,11 @@
+abonnera	abonnerades	V;PASS;IND;PST
+abonnera	abonnerade	V;ACT;IND;PST
+abonnera	abonnerad	V.PTCP;PST
+abonnera	abonnerande	V.PTCP;PRS
+abonnera	abonnerar	V;ACT;IND;PRS
+abonnera	abonneras	V;PASS;IND;PRS
+abonnera	abonneras	V;PASS;NFIN
+abonnera	abonnerats	V.CVB;PASS
+abonnera	abonnerat	V.CVB;ACT
+abonnera	abonnera	V;ACT;NFIN
+abonnera	abonnera	V;IMP

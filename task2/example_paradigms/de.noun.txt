@@ -1,0 +1,8 @@
+Aachener	Aachener	N;ACC;PL
+Aachener	Aachener	N;ACC;SG
+Aachener	Aachener	N;DAT;SG
+Aachener	Aachener	N;GEN;PL
+Aachener	Aachenern	N;DAT;PL
+Aachener	Aachener	N;NOM;PL
+Aachener	Aachener	N;NOM;SG
+Aachener	Aacheners	N;GEN;SG

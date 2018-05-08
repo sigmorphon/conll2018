@@ -1,0 +1,5 @@
+abacinate	abacinated	V;PST
+abacinate	abacinated	V;V.PTCP;PST
+abacinate	abacinates	V;3;SG;PRS
+abacinate	abacinate	V;NFIN
+abacinate	abacinating	V;V.PTCP;PRS

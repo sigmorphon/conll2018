@@ -1,0 +1,70 @@
+ababillarse	ababilladas	V.PTCP;PST;FEM;PL
+ababillarse	ababillada	V.PTCP;PST;FEM;SG
+ababillarse	ababillados	V.PTCP;PST;MASC;PL
+ababillarse	ababillado	V.PTCP;PST;MASC;SG
+ababillarse	ababillándose	V.CVB;PRS
+ababillarse	ababillaos	V;POS;IMP;2;PL
+ababillarse	ababillarse	V;NFIN
+ababillarse	ababíllate	V;POS;IMP;2;SG
+ababillarse	ababillémonos	V;POS;IMP;1;PL
+ababillarse	ababíllense	V;POS;IMP;3;PL
+ababillarse	ababíllese	V;POS;IMP;3;SG
+ababillarse	me ababillaba	V;IND;PST;1;SG;IPFV
+ababillarse	me ababillara	V;SBJV;PST;1;SG;LGSPEC1
+ababillarse	me ababillaré	V;IND;FUT;1;SG
+ababillarse	me ababillare	V;SBJV;FUT;1;SG
+ababillarse	me ababillaría	V;COND;1;SG
+ababillarse	me ababillase	V;SBJV;PST;1;SG
+ababillarse	me ababillé	V;IND;PST;1;SG;PFV
+ababillarse	me ababille	V;SBJV;PRS;1;SG
+ababillarse	me ababillo	V;IND;PRS;1;SG
+ababillarse	no nos ababillemos	V;NEG;IMP;1;PL
+ababillarse	no os ababilléis	V;NEG;IMP;2;PL
+ababillarse	nos ababillábamos	V;IND;PST;1;PL;IPFV
+ababillarse	nos ababillamos	V;IND;PRS;1;PL
+ababillarse	nos ababillamos	V;IND;PST;1;PL;PFV
+ababillarse	nos ababilláramos	V;SBJV;PST;1;PL;LGSPEC1
+ababillarse	nos ababillaremos	V;IND;FUT;1;PL
+ababillarse	nos ababilláremos	V;SBJV;FUT;1;PL
+ababillarse	nos ababillaríamos	V;COND;1;PL
+ababillarse	nos ababillásemos	V;SBJV;PST;1;PL
+ababillarse	nos ababillemos	V;SBJV;PRS;1;PL
+ababillarse	no se ababillen	V;NEG;IMP;3;PL
+ababillarse	no se ababille	V;NEG;IMP;3;SG
+ababillarse	no te ababilles	V;NEG;IMP;2;SG
+ababillarse	os ababillabais	V;IND;PST;2;PL;IPFV
+ababillarse	os ababilláis	V;IND;PRS;2;PL
+ababillarse	os ababillarais	V;SBJV;PST;2;PL;LGSPEC1
+ababillarse	os ababillaréis	V;IND;FUT;2;PL
+ababillarse	os ababillareis	V;SBJV;FUT;2;PL
+ababillarse	os ababillaríais	V;COND;2;PL
+ababillarse	os ababillaseis	V;SBJV;PST;2;PL
+ababillarse	os ababillasteis	V;IND;PST;2;PL;PFV
+ababillarse	os ababilléis	V;SBJV;PRS;2;PL
+ababillarse	se ababillaban	V;IND;PST;3;PL;IPFV
+ababillarse	se ababillaba	V;IND;PST;3;SG;IPFV
+ababillarse	se ababillan	V;IND;PRS;3;PL
+ababillarse	se ababillarán	V;IND;FUT;3;PL
+ababillarse	se ababillaran	V;SBJV;PST;3;PL;LGSPEC1
+ababillarse	se ababillará	V;IND;FUT;3;SG
+ababillarse	se ababillara	V;SBJV;PST;3;SG;LGSPEC1
+ababillarse	se ababillaren	V;SBJV;FUT;3;PL
+ababillarse	se ababillare	V;SBJV;FUT;3;SG
+ababillarse	se ababillarían	V;COND;3;PL
+ababillarse	se ababillaría	V;COND;3;SG
+ababillarse	se ababillaron	V;IND;PST;3;PL;PFV
+ababillarse	se ababillasen	V;SBJV;PST;3;PL
+ababillarse	se ababillase	V;SBJV;PST;3;SG
+ababillarse	se ababilla	V;IND;PRS;3;SG
+ababillarse	se ababillen	V;SBJV;PRS;3;PL
+ababillarse	se ababille	V;SBJV;PRS;3;SG
+ababillarse	se ababilló	V;IND;PST;3;SG;PFV
+ababillarse	te ababillabas	V;IND;PST;2;SG;IPFV
+ababillarse	te ababillarás	V;IND;FUT;2;SG
+ababillarse	te ababillaras	V;SBJV;PST;2;SG;LGSPEC1
+ababillarse	te ababillares	V;SBJV;FUT;2;SG
+ababillarse	te ababillarías	V;COND;2;SG
+ababillarse	te ababillases	V;SBJV;PST;2;SG
+ababillarse	te ababillaste	V;IND;PST;2;SG;PFV
+ababillarse	te ababillas	V;IND;PRS;2;SG
+ababillarse	te ababilles	V;SBJV;PRS;2;SG

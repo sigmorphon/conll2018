@@ -1,0 +1,8 @@
+abborre	abborrarna	N;DEF;NOM;PL
+abborre	abborrarnas	N;DEF;GEN;PL
+abborre	abborrar	N;INDF;NOM;PL
+abborre	abborrars	N;INDF;GEN;PL
+abborre	abborre	N;INDF;NOM;SG
+abborre	abborren	N;DEF;NOM;SG
+abborre	abborrens	N;DEF;GEN;SG
+abborre	abborres	N;INDF;GEN;SG
