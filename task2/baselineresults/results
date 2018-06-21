@@ -1,14 +1,14 @@
 track1 de high
-Accuracy: 69.54
-Avg. Levenshtein distance: 0.58
+Accuracy: 68.17
+Avg. Levenshtein distance: 0.64
 
 track1 de medium
-Accuracy: 9.99
-Avg. Levenshtein distance: 3.44
+Accuracy: 51.05
+Avg. Levenshtein distance: 1.07
 
 track1 de low
-Accuracy: 0.00
-Avg. Levenshtein distance: 5.90
+Accuracy: 0.90
+Avg. Levenshtein distance: 5.66
 
 track1 en high
 Accuracy: 68.14
@@ -83,16 +83,16 @@ Accuracy: 0.00
 Avg. Levenshtein distance: 5.95
 
 track2 de high
-Accuracy: 63.75
-Avg. Levenshtein distance: 0.72
+Accuracy: 64.26
+Avg. Levenshtein distance: 0.75
 
 track2 de medium
-Accuracy: 45.50
-Avg. Levenshtein distance: 1.22
+Accuracy: 54.35
+Avg. Levenshtein distance: 0.99
 
 track2 de low
-Accuracy: 0.00
-Avg. Levenshtein distance: 5.89
+Accuracy: 0.90
+Avg. Levenshtein distance: 5.46
 
 track2 en high
 Accuracy: 67.90
