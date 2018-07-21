@@ -1,0 +1,8 @@
+The official evaluation script lives in this directory. We have provided sample output from the baseline model on the development data in sample-output/. You may run the baseline as shown in the examples below.
+
+Task 1 Evaluation:
+
+python3 evalm.py --guess sample-output/task1/persian-medium-out --gold ../all/persian-dev --task 1
+
+acccuracy:	66.20
+levenshtein:	1.03
