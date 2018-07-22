@@ -4,5 +4,5 @@ Task 1 Evaluation:
 
 python3 evalm.py --guess sample-output/task1/persian-medium-out --gold ../all/persian-dev --task 1
 
-acccuracy:	66.20
-levenshtein:	1.03
+acccuracy:	67.30
+levenshtein:	0.93
