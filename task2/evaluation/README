@@ -1,8 +1,13 @@
-The official evaluation scripts live in this directory. We have provided sample output from the baseline model on the development data in sample-output/. You may run the baseline as shown in the examples below.
+The official evaluation scripts live in this directory. We have provided sample output from the baseline model on 
+the development data in sample-output/. You may run the baseline as shown in the examples below.
 
 Task 2 Evaluation:
 
-In task2, two accuracy figures are given. The "original form accuracy" denotes accuracy w.r.t. to the original word form in the corpora which were used to create the development and test sets. The "plausible form accuracy", in turn, denotes precision w.r.t. a set of contextually plausible word forms which have been manually annotated into the final gold standard test sets. For development data, both figures are identical because no additional word forms have been supplied. 
+In task2, two accuracy figures are given. The "original form accuracy" denotes accuracy w.r.t. to the original word 
+form in the corpora which were used to create the development and test sets. The "plausible form accuracy", in turn, 
+denotes precision w.r.t. a set of contextually plausible word forms which have been manually annotated into the final 
+gold standard test sets. For development data, both figures are identical because no additional word forms have been 
+supplied. 
  
 python eval_task2.py --guess sample_output/de-1-medium-out --gold ../devsets/de-uncovered 
 
