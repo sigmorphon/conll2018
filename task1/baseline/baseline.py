@@ -224,6 +224,7 @@ def main(argv):
                     outform = apply_best_rule(lemma, msd, allprules, allsrules)
                     if prefbias > suffbias:
                         outform = outform[::-1]
+                        lemma = lemma[::-1]
                     if outform == correct:
                         numcorrect += 1
                     numguesses += 1
